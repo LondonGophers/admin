@@ -1,7 +1,5 @@
 ## Admin
 
-This repo will be used for various bits of Go London User Group admin, including (but not limited to):
+This repo is used for various bits of Go London User Group admin.
 
-* Meeting notes
-* Copies of our constitution and any other legal documents we are required to publish
-* ...
+➡️ [Wiki](https://github.com/go-london-user-group/admin/wiki)
