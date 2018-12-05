@@ -43,16 +43,22 @@ Any Ordinary Member may attend an Organisers’ meeting, but may only be given s
 
 #### Bank Accounts & Finance
 The Lead Organiser will be a signatory on any and all bank accounts. Any other Organiser may become a signatory and have a debit card on agreement of all other organisers. Any action related to the bank account should be able to be actioned with just one signature. 
+
 Any financial transactions must take place through the Organisation bank account.
+
 The Organisation must not borrow money and must act within its own means. 
+
 Any individual transaction over the value of £200 must have the agreement of at least one other Organiser. 
+
 Any purchases for GLUG made by an Organiser who is not a card holder may be claimed back from the Lead Organiser on presentation of a receipt.
 
 #### Other Assets
-For the operation of GLUG, it will hold a number of other assets. Some of these may just be held temporarily (such as prizes or giveaways), some may be more permanent (video equipment). 
+For the operation of GLUG, it will hold a number of other assets. Some of these may just be held temporarily (such as prizes or giveaways), some may be more permanent (video equipment).
+
 Any assets are property of GLUG and not that of Organisers. 
-Assets should be used for GLUG purposes only, unless agreement is made with the Organisers. 
-Ordinary Members may request access to assets from Organisers. 
+
+Assets should be used for GLUG purposes only, unless agreement is made with the Organisers. Ordinary Members may request access to assets from Organisers. 
+
 Where assets are stored at an Organiser’s house, if they step down, they must pass all assets to another Organiser.
 
 ### Closing Go London User Group
@@ -64,11 +70,11 @@ The Organisation must be closed if:
 If the Organisers wish to close the meetup group for any other reason, then all members must be informed of the reason. Should another group of organisers be able to be formed within two weeks, then the group shall continue to operate under the new organisation group.
 
 #### On the closing of the group:
-All assets must be offered to any other UK based Go meetup group, or London based meetup group. No money can be exchanged for these.
-On being unable to find an organisation to take the assets, where suitable they should be donated to charity, otherwise destroyed.
-Digital assets should be passed to another Go meetup group. Where funds allow, items such as domains and hosting should have enough credit added to their accounts to last 5 years. 
-Access should be linked to a generic email address and the login details for this should be handed over.
-Any remaining funds should be donated to Women Who Go (https://www.womenwhogo.org).
+* All assets must be offered to any other UK based Go meetup group, or London based meetup group. No money can be exchanged for these.
+* On being unable to find an organisation to take the assets, where suitable they should be donated to charity, otherwise destroyed.
+* Digital assets should be passed to another Go meetup group. Where funds allow, items such as domains and hosting should have enough credit added to their accounts to last 5 years. 
+* Access should be linked to a generic email address and the login details for this should be handed over.
+* Any remaining funds should be donated to Women Who Go (https://www.womenwhogo.org).
 
 ### Rules Changes
 These rules may be changed by simple majority of Organisers, at any organisers meeting attended by the Lead Organiser.
