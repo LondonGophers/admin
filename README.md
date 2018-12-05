@@ -20,7 +20,7 @@ This repo is used for various bits of Go London User Group admin.
 
 (_restricted access_)
 
-🗣 [speakers log](https://drive.google.com/drive/folders/1aR1qvbRNPot3nEVoJk52NPYlWEVv8eMo)
+🗣 [speakers log](https://drive.google.com/drive/folders/1jlmSd8FVn7qpR9LnWE8a2BHb1P430MmS)
 
 🏛 [venues log](https://drive.google.com/drive/u/0/folders/1ldb7vSPaAfRGiaCcoErBAFSsIFuajSSd)
 
