@@ -10,7 +10,7 @@ This repo is used for various bits of Go London User Group admin.
 
 ***
 
-📚 [Runbooks](runbooks/index.md)
+📚 [Runbooks](runbooks/)
 
 🤝 [Organiser meeting notes](meeting_notes/)
 
