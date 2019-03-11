@@ -1,3 +1,0 @@
-## Sponsorship information
-
-🔜 Coming soon

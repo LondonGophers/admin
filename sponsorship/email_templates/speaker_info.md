@@ -1,3 +1,0 @@
-## Speaker information
-
-🔜 Coming soon
