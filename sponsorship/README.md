@@ -30,6 +30,7 @@ We also have a small number of people that view our live stream or watch the vid
 
 We hope that you will get exposure to many amazing and active engineers at our meetups, so we look to make sure that we give you exposure both during the event, leading up to and after the evening.
 
+- You will be listed as our sponsor in the invite that goes out to all our members on meetup.com (currently over 2800).
 - During the event, we will make sure that the opening and closing slides have all sponsor logos present (they will also be shown on the live stream).
 - We offer you the option to stand up and do a 2-3 minute sponsorship introduction to let our community know more about you and what you are doing (slides are optional).
 - Will make sure that we tweet mentioning you leading up to the event and after so that our followers know about your support for the community.
