@@ -14,6 +14,8 @@ This repo is used for various bits of Go London User Group admin.
 
 📚 [Runbooks](runbooks/)
 
+💵 [Sponsorship](sponsorship/)
+
 🤝 [Organiser meeting notes](meeting_notes/)
 
 ⚖️ [Legal documents](legal/)
