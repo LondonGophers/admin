@@ -22,7 +22,7 @@ Both recurring and one-off sponsors will be featured prominently during the meet
 
 We have a huge outreach as a community so it's a great opportunity for your company and brand to get exposure to many eager engineers. Normally we have between 150-200 people turn up on the evening (with 300+ signing up for the event). We are in the top ten biggest Go meetups in the world and hope to be growing the community even more in the coming months.
 
-We also have a number of people that view our live stream on YouTube. All our videos feature logos of our sponsors for that month and can be viewed after the event on [our YouTube channel](https://www.youtube.com/channel/UCZPhOgp4kDXkg2W8jL4U7GA).
+We also have a number of people that view our live stream on YouTube. All our videos feature logos of our sponsors for that month and can be viewed after the event on [our YouTube channel](https://www.youtube.com/c/LondonGophers).
 
 ### What's in it for you?
 
