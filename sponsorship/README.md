@@ -12,7 +12,7 @@ As sponsorship goes we normally look for help in supporting the meetup and commu
 
 **We are looking for recurring sponsors who will contribute £200 every month or host us a few times a year.**
 
-This will allow us to secure the group's ability to host everyone on a monthly basis. It will also allow us to keep improving the experience we provide by investing in recording equipment and inviting well-known speakers.
+This will allow us to secure the group's ability to host everyone on a monthly basis. It will also allow us to keep improving the experience we provide by investing in recording equipment, inviting well-known speakers or sponsoring diversity tickets to conferences for our attendees with any surplus left.
 
 We also graciously accept one-off sponsorship offers, be it to cover part of the food & refreshments bill or to provide a venue for one event. 
 
