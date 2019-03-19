@@ -10,11 +10,11 @@ As sponsorship goes we normally look for help in supporting the meetup and commu
 
 * Food & Refreshments - We normally spend around £900 on catering every month so that everyone can have some food and drinks while  socialising during the breaks. Pizza always goes down a treat but we are open to trying new food for the event. We always provide a mix of alcoholic and soft drinks and vegetarian options to suit our diverse community.
 
-**We are looking for recurring sponsors who will contribute £200 every month or host us a few times a year.**
+**We are looking for recurring sponsors who will contribute £200 every month.**
 
 This will allow us to secure the group's ability to host everyone on a monthly basis. It will also allow us to keep improving the experience we provide by investing in recording equipment, inviting well-known speakers or sponsoring diversity tickets to conferences for our attendees with any surplus left.
 
-We also graciously accept one-off sponsorship offers, be it to cover part of the food & refreshments bill or to provide a venue for one event. 
+We also graciously accept one-off sponsorship offers towards the cost of food & refreshments.
 
 Both recurring and one-off sponsors will be featured prominently during the meetup. We will also advertise our recurring sponsors outside of the event nights and tweet once a month about their job openings.
 
@@ -22,7 +22,7 @@ Both recurring and one-off sponsors will be featured prominently during the meet
 
 We have a huge outreach as a community so it's a great opportunity for your company and brand to get exposure to many eager engineers. Normally we have between 150-200 people turn up on the evening (with 300+ signing up for the event). We are in the top ten biggest Go meetups in the world and hope to be growing the community even more in the coming months.
 
-We also have a small number of people that view our live stream or watch the videos after the event via [our YouTube channel](https://www.youtube.com/channel/UCZPhOgp4kDXkg2W8jL4U7GA). All our videos feature the logos of our sponsors for that month.
+We also have a number of people that view our live stream on YouTube. All our videos feature logos of our sponsors for that month and can be viewed after the event on [our YouTube channel](https://www.youtube.com/channel/UCZPhOgp4kDXkg2W8jL4U7GA).
 
 ### What's in it for you?
 
