@@ -8,15 +8,13 @@ As sponsorship goes we normally look for help in supporting the meetup and commu
 
 * Hosting - We are looking for London based venues that will hold 200+ people that we can host the meetup at. This would most likely be the middle Wednesday of the month from around 6:30 till 9pm.
 
-* Food - We normally spend between £300 - £400 on catering every month so that everyone can have some food and an opportunity to  socialise during the food break. Pizza always goes down a treat but we are also open to trying new food for the event.
-
-* Refreshments - As with food we are looking to get between £300 - £400 to provide drinks and refreshments for everyone on the evening. We are keen to make sure that we have a wide range of drinks that suit our diverse community.
+* Food & Refreshments - We normally spend around £900 on catering every month so that everyone can have some food and drinks while  socialising during the breaks. Pizza always goes down a treat but we are open to trying new food for the event. We always provide a mix of alcoholic and soft drinks and vegetarian options to suit our diverse community.
 
 **We are looking for recurring sponsors who will contribute £200 every month or host us a few times a year.**
 
 This will allow us to secure the group's ability to host everyone on a monthly basis. It will also allow us to keep improving the experience we provide by investing in recording equipment and inviting well-known speakers.
 
-We also graciously accept one-off sponsorship offers, be it to cover food, refreshments or venue for one event. 
+We also graciously accept one-off sponsorship offers, be it to cover part of the food & refreshments bill or to provide a venue for one event. 
 
 Both recurring and one-off sponsors will be featured prominently during the meetup. We will also advertise our recurring sponsors outside of the event nights and tweet once a month about their job openings.
 
