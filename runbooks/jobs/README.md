@@ -3,8 +3,8 @@
 London Gophers is committed to supporting and helping companies of all shapes and sizes in their search for great people, and talented Gophers in their quest for the ultimate job.
 
 If you are a company looking to hire golang developers, or a person looking for a role involving golang, please:
-- join Gophers Slack (link)[https://invite.slack.golangbridge.org/] and the `#london-jobs` channel
-- or the London Gophers mailing list (link)[https://groups.google.com/d/forum/london-gophers]
+- join Gophers Slack [link](https://invite.slack.golangbridge.org/) and the `#london-jobs` channel
+- or the London Gophers mailing list [link](https://groups.google.com/d/forum/london-gophers)
 - post a message to reach out for what you are looking for
 
 ## FAQ
