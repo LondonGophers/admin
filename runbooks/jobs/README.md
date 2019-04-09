@@ -14,8 +14,8 @@ Based on feedback from both people hiring and looking for jobs the short 30secon
 #### Why not just get rid of the jobs section?
 We feel that as a community we want to support companies large and small looking for talented engineers. Some companies might not be able to afford sponsoring meetups or attending them on a regular basis to talk to engineers but we still want everyone to be succesful in their search. Moving this to a more community focused Slack channel allows us to hopefully support the majority of peoples needs.
 
-#### Why Slack?
-Slack is a great place to show what is happening at a specific moment in time. People looking and vacancies change over time, a Slack channel allows us to keep up to date with the changing needs of the community.
+#### Why Slack/Email?
+Slack and Email groups are a great place to show what is happening at a specific moment in time. People looking and vacancies change over time, a Slack channel or email forumn allows people to keep up to date with the changing needs of the community.
 
 #### Can I post a job there?
 Sure, post away!
