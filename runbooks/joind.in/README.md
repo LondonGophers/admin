@@ -37,7 +37,8 @@ You get the idea ;)
     * Website URL: https://www.meetup.com/Go-London-User-Group/events/XXX/ (link to that month's event on meetup.com)
     * Tags: `go,golang,london`
     * fill in the Venue and Date & time info
-    * upload the icon:
+    * Icon: upload the [GLUG logo](https://github.com/go-london-user-group/admin/blob/master/assets/GLUG-logo-joindin.png)
+    
 
 * hit Submit and wait for an email to arrive - **it usually takes a day to get the event approved**
 * once approved, head to the event's page on joind.in and click on "Add talk" (one of the buttons on the yellow menu stripe) to add each talk
