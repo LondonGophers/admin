@@ -8,9 +8,17 @@ This repo is used for various bits of Go London User Group admin.
 
 ✍️  [Constitution](legal/constitution.md)
 
+📧 [london-gophers-organiser](glug-organisers@googlegroups.com) email address
+
+📧 [london-gophers](https://groups.google.com/forum/#!forum/london-gophers) mailing list
+
+💬 [gophers slack](https://invite.slack.golangbridge.org/) invite
+
 ***
 
 📽 [Meetups](meetups/)
+
+💼 [Jobs](runbooks/jobs/README.md)
 
 📚 [Runbooks](runbooks/)
 
