@@ -12,7 +12,7 @@ This repo is used for various bits of Go London User Group admin.
 
 📧 [london-gophers](https://groups.google.com/forum/#!forum/london-gophers) mailing list
 
-💬 [gophers slack](https://invite.slack.golangbridge.org/) invite
+💬 [gophers slack](https://invite.slack.golangbridge.org/) invite and join us in `#london`
 
 ***
 
