@@ -7,6 +7,7 @@
 - Scroll to `Encoder Setup`
   - Reveal & Regenerate the streaming key
 - Copy and Paste the `URL` and `Key` for Tech Support at Venue
+- Set the background of the stream to be `./images/streambackground.png`
 
 ####  Start the test streaming
 - [Venue]: use the above URL & Key in their OBS setup to start streaming to our channel
