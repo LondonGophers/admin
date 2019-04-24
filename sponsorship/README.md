@@ -1,22 +1,32 @@
 ## 💵 Sponsorship
 
-As a meetup, we rely on our sponsors to help make our evenings even better. We know everyone at meetups loves some food and refreshments!
+London Gophers is a volunteer-run organisation that seeks to remain as friendly and welcoming as possible to everyone. Therefore membership of London Gophers is 100% free and we do not charge for attending events. Not only that, but we provide food and drink at all of our events! We therefore rely on sponsorship to cover our costs.
 
-### Sponsorship Opportunities
+### Where do we incur costs?
+* Venues - we need London based venues that can hold 200+ people. Our meetups are typically around the middle of the month on a Wednesday and run from 18:30-21:00.
 
-As sponsorship goes we normally look for help in supporting the meetup and community in a few different ways:
+* Food - we normally spend between £300 - £400 on food every month so that everyone can enjoy the evening on a full, rather than empty, stomach! We try to cater for all different diets/allergies. Various flavours/forms of pizza always go down a treat but we are always open to trying different ideas!
 
-* Hosting - We are looking for London based venues that will hold 200+ people that we can host the meetup at. This would most likely be the middle Wednesday of the month from around 6:30 till 9pm.
+* Drinks - as with food we spend £300 - £400 to provide drinks and refreshments for everyone on the evening. We try to offer a wide range of drinks to cover all preferences!
 
-* Food & Refreshments - We normally spend around £900 on catering every month so that everyone can have some food and drinks while  socialising during the breaks. Pizza always goes down a treat but we are open to trying new food for the event. We always provide a mix of alcoholic and soft drinks and vegetarian options to suit our diverse community.
+* AV/equipment - every London Gophers meetup is streamed live on [our YouTube channel](https://www.youtube.com/c/LondonGophers). Until now, the organisers have used their own personal equipment, but clearly this is not sustainable/appropriate.
 
-**We are looking for recurring sponsors who will contribute £200 every month.**
+* Speaker costs - sometimes we have visiting speakers and where possible we look to help them with reasonable costs, like train tickets. Clearly where possible we look to minimise costs in this area by inviting speakers at a time that coincides with a pre-existing trip to London, but this is not always possible.
 
-This will allow us to secure the group's ability to host everyone on a monthly basis. It will also allow us to keep improving the experience we provide by investing in recording equipment, inviting well-known speakers or sponsoring diversity tickets to conferences for our attendees with any surplus left.
+* Admin - we use [meetup.com](https://www.meetup.com/) to schedule our events which costs us about £80 a year in subscription fees. Otherwise we use free tools and services whenever possible to help with the day to day organisation of the meetup.
 
-We also graciously accept one-off sponsorship offers towards the cost of food & refreshments.
+Because we are a non-profit organisation, we will typically put any surplus funds towards conference scholarship funds such as https://www.gophercon.co.uk/scholarships/.
 
-Both recurring and one-off sponsors will be featured prominently during the meetup. We will also advertise our recurring sponsors outside of the event nights and tweet once a month about their job openings.
+As mentioned above, the organising committee of London Gophers are volunteers. We are always on the lookout for people keen to join our team!
+
+### Sponsorship Options
+We have three categories of sponsorship:
+
+* Recurring sponsors. Contribute £200 every month and get listed on our website, listed in our main slide deck for each meetup and get thanked and mentioned throughout the meetup. **We are actively looking for recurring sponsors.**
+* Venue sponsors who will host us a few times a year. **We are not looking for venue sponsors at this time.**
+* Ad-hoc sponsorship. Be it covering food, drinks or venue for the odd meetup, or a donation to cover a specific cost.
+
+Both recurring and one-off sponsors will be featured prominently during the meetup they sponsor. We will also advertise our recurring sponsors outside of the event nights and tweet once a month about their job openings.
 
 ### Why Sponsor?
 
@@ -30,7 +40,7 @@ We hope that you will get exposure to many amazing and active engineers at our m
 
 - You will be listed as our sponsor in the invite that goes out to all our members on meetup.com (currently over 2800).
 - During the event, we will make sure that the opening and closing slides have all sponsor logos present (they will also be shown on the live stream).
-- We offer you the option to stand up and do a 2-3 minute sponsorship introduction to let our community know more about you and what you are doing (slides are optional).
+- We offer every new sponsor the option to stand up and do a 2-3 minute sponsorship introduction to let our community know more about you and what you are doing at one of the meetups.
 - Will make sure that we tweet mentioning you leading up to the event and after so that our followers know about your support for the community.
 
 Please reach out to us if you have any questions or if you'd like to sponsor!
