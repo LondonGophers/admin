@@ -24,7 +24,7 @@
 
 🗣 [Axel Wagner - Decoding binary network protocols](https://blog.myitcv.io/gopherjs_examples_sites/present/?url=https://raw.githubusercontent.com/Merovius/go-talks/master/2019-02_london_gophers/decoding.slide&hideAddressBar=true)
 
-[Bill Glover - Beyond the Tour](https://billglover.me/talks/20190220_LondonGophers_BeyondTheTour.pdf)
+🗣 [Bill Glover - Beyond the Tour](https://billglover.me/talks/20190220_LondonGophers_BeyondTheTour.pdf)
 
 ### December 2018
 
