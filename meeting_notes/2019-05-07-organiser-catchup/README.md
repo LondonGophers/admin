@@ -50,7 +50,19 @@ Main points:
 * add redirect from gophers.london
 
 ### Venues
+* Should ensure that we attend a new venue before we agree on hosting the meetup
+* Enusre that we know the size of the venue and it can host the number of attendees
+* AV team should be present at the meeting so that we can show how the setup would on the evening
+* Ensure we have people seating for the number of people at the meetup
 
+**Decision**: Work with new hosts that we are both delivering the best for hte community.
 
+### GopherCon UK
+* lets try and arrange it near the time to combine
+* Their pre conf is on the weds (could sync)
+* Get back to the GopherCon organisers
+* Could we combine the both and have the meetup at the same time?
+* Short talks / fish bowl evening
+* **What are we asking**: coencide with our meetup the aim is to bring the community together
 
-
+**Decision**: talk again to Jo and Paul to figure out how we can bring the community together.
