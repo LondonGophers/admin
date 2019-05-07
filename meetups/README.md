@@ -8,6 +8,8 @@
 
 🗣 [Apu Chitnis - How to write a HTTP server from scratch in Go](https://docs.google.com/presentation/d/1N84bBjleOwaBhQs5mBzn9yots5AgjWpaYXx6xF2Ma5k/edit#slide=id.p)
 
+🗣 [Paul Jolly - gopls + vim = govim](https://talks.godoc.org/github.com/myitcv/talks/2019-04-25-govim-vim-london/main.slide#1)
+
 ### March 2019
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=Q8Aj9_UB8Io&list=PL8QGElREVyDAMl291aMVxBZNNvqkswoD4)
