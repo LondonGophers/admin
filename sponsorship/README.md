@@ -3,7 +3,7 @@
 London Gophers is a volunteer-run organisation that seeks to remain as friendly and welcoming as possible to everyone. Therefore membership of London Gophers is 100% free and we do not charge for attending events. Not only that, but we provide food and drink at all of our events! We therefore rely on sponsorship to cover our costs.
 
 ### Where do we incur costs?
-* Venues - we need London based venues that can hold 200+ people. Our meetups are typically around the middle of the month on a Wednesday and run from 18:30-21:00.
+* Venues - we need London based venues that can hold 250+ people. Our meetups are typically around the middle of the month on a Wednesday and run from 18:30-21:00.
 
 * Food - we normally spend up to £600 on food every month so that everyone can enjoy the evening on a full, rather than empty, stomach! We try to cater for all different diets/allergies. Various flavours/forms of pizza always go down a treat but we are always open to trying different ideas!
 
