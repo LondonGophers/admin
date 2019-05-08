@@ -58,7 +58,7 @@ Main points:
 **Decision**: Work with new hosts to deliver the best for the community.
 
 ### GopherCon UK
-* lets try and arrange it near the time to combine
+* let's try and arrange it near the time to combine
 * Their pre conf is on the weds (could sync)
 * Get back to the GopherCon organisers
 * Could we combine the both and have the meetup at the same time?
