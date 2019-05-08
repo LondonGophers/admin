@@ -19,7 +19,7 @@ Main points:
   * Any remaining money at the end of the period will go towards scholarships for people in the community to attend go conferences
   * Finalising wording on PR together as a group
   * Will try and ensure that introductions are kept to a maximum of 2 minutes
-    * Aware that a long sponsorship introductions could be uncofortable to sit through
+    * Aware that a long sponsorship introductions could be uncomfortable to sit through
   * Would be nice to start offering to help with travel for speakers in the UK
 
 **Decision**: Documented decisions here [Sponsorship](../../sponsorship/README.md).
