@@ -9,7 +9,7 @@ Present:
 
 ### Sponsorship 
 
-We have been being asked for updated information about how people can contribute to the London Gophers community and help support us as a meetup to contine to grow and support the community.
+We have been being asked for updated information about how people can contribute to the London Gophers community and help support us as a meetup to continue to grow and support the community.
 
 Main points:
 * Sponsorship Pack
