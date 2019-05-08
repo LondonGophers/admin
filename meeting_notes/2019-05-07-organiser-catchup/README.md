@@ -55,7 +55,7 @@ Main points:
 * AV team should be present at the meeting so that we can show how the setup would on the evening
 * Ensure we have people seating for the number of people at the meetup
 
-**Decision**: Work with new hosts that we are both delivering the best for hte community.
+**Decision**: Work with new hosts to deliver the best for the community.
 
 ### GopherCon UK
 * lets try and arrange it near the time to combine
