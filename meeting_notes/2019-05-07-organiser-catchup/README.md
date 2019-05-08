@@ -63,6 +63,6 @@ Main points:
 * Get back to the GopherCon organisers
 * Could we combine the both and have the meetup at the same time?
 * Short talks / fish bowl evening
-* **What are we asking**: coencide with our meetup the aim is to bring the community together
+* **What are we asking**: coincide with our meetup the aim is to bring the community together
 
 **Decision**: talk again to Jo and Paul to figure out how we can bring the community together.
