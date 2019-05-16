@@ -1,5 +1,9 @@
 ## Meet-ups
 
+### May 2019
+
+📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vQZ5MDfptAI2U7VTDmqZEU7Qrkkpeu-DZh0h_oXXLo_1GV3dGLMMJUkq_N12PCeRUwvBKMCsq29iTA_/pub)
+
 ### April 2019
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=fT1kOV1qUOc&list=PL8QGElREVyDDsxb-yLfiK_naVAQ4grt_w)
