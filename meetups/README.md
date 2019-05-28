@@ -1,10 +1,14 @@
 ## Meet-ups
 
-### May 2019
+### May 15 2019 - [Cloudflare](https://www.cloudflare.com)
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vQZ5MDfptAI2U7VTDmqZEU7Qrkkpeu-DZh0h_oXXLo_1GV3dGLMMJUkq_N12PCeRUwvBKMCsq29iTA_/pub)
 
-### April 2019
+   [Wayne Ashley Berry - Implementing image filters in Go](https://docs.google.com/presentation/d/e/2PACX-1vSOI-UerMVbBe73OtLLh7bJoE2xgRoG7hUluzZ12XN3A8XD70SqtPaQ5doO699QtdFn6DqZlPIdVczy/pub)
+
+🗣 [Daniel Martí - Reimagining gofmt for Go 2.0](https://docs.google.com/presentation/d/e/2PACX-1vQwj8Zf9TEeqSazY0nSObZt6cNgukUdl15PameXJRhjkU1vtdGB4AApy2NChyMwdqMxkyMfmIyHHO0c/pub)
+
+### April 17 2019 - [Deliveroo](https://deliveroo.co.uk)
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=fT1kOV1qUOc&list=PL8QGElREVyDDsxb-yLfiK_naVAQ4grt_w)
 
@@ -14,7 +18,7 @@
 
 🗣 [Paul Jolly - gopls + vim = govim](https://talks.godoc.org/github.com/myitcv/talks/2019-04-25-govim-vim-london/main.slide#1)
 
-### March 2019
+### March 20 2019 - [Monzo](https://monzo.com)
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=Q8Aj9_UB8Io&list=PL8QGElREVyDAMl291aMVxBZNNvqkswoD4)
 
@@ -22,7 +26,7 @@
 
 🗣 [Nicholas Ng - WARNING: DATA RACE](http://gotalks.nickng.io/londongophers-mar19.slide#1)
 
-### February 2019
+### February 20 2019 - [Lush](https://uk.lush.com/)
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=YbLwiKH88jw&list=PL8QGElREVyDBljpSyqaf0iA2TBJHAkawO)
 
@@ -32,7 +36,7 @@
 
 🗣 [Bill Glover - Beyond the Tour](https://billglover.me/talks/20190220_LondonGophers_BeyondTheTour.pdf)
 
-### December 2018
+### December 12 2018 - [Pusher](https://pusher.com)
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=mTJjj84sBmo&list=PL8QGElREVyDDl9M50hdDmugG-OizMbfiy)
 
