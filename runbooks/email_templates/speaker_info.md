@@ -2,7 +2,8 @@
 
 - Confirm your name as you would like it to appear on slides.
 - Talk Title 
-- one/two sentences of "blurb", introducing the talk (e.g. "In this talk....")
+- One/two sentences of "blurb", introducing the talk (e.g. "In this talk....")
+- Confirm if you are giving a 10mins lightning talk or 30mins talk.
 - Twitter/GitHub handle for speaker slide
 - URL of an image to use for your speaker slide
 - Personal website link/similar (optional)
