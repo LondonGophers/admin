@@ -48,7 +48,7 @@ Because we are a non-profit organisation, we will typically put any surplus fund
 
 If your business is about products or services that could improve the overall meetup experience, and benefit our community, please consider supporting this group by providing us community licenses or access to free merchandise! Great examples of companies that have already agreed on this kind of "sponsorship" are:
 
-* Jetbrains: three free licenses every month for our attendees to give away in a raffle fashion
+* Jetbrains: three free licenses every month for our attendees to give away in a raffle
 * 1Password: they granted us a community account that we can use to share admin/passwords/details within us organisers
 * Stickermule: they kindly provide stickers for our events
 
