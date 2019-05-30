@@ -50,7 +50,7 @@ If your business is about products or services that could improve the overall me
 
 * Jetbrains: three free licenses every month for our attendees to give away in a raffle
 * 1Password: a free community license for the organisers to be able to share passwords and sensitive data securely
-* Stickermule: they kindly provide stickers for our events
+* Stickermule: stickers with the London Gophers logo to be distributed at our events
 
 We're incredibly grateful to everyone who would like to contribute, one way or another, and we'll make sure our friends will know about your kindness!
 
