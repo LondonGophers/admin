@@ -46,7 +46,7 @@ Because we are a non-profit organisation, we will typically put any surplus fund
 
 ## 👨‍👩‍👦‍👦 Support us
 
-If your business is about products or services that could improve the overall meetup experience, and benefit our community, please consider supporting this group by providing us community licenses or access to free merchandise! Great examples of companies that have already agreed on this kind of "sponsorship" are:
+If your business is about products or services that could improve the overall meetup experience, and benefit our community, please consider supporting this group by providing us community licenses or access to free merchandise! Great examples of companies which have supported us this way are:
 
 * Jetbrains: three free licenses every month for our attendees to give away in a raffle
 * 1Password: a free community license for the organisers to be able to share passwords and sensitive data securely
