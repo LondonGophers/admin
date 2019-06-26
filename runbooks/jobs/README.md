@@ -7,6 +7,14 @@ If you are a company looking to hire golang developers, or a person looking for 
 - or the London Gophers mailing list [link](https://groups.google.com/d/forum/london-gophers)
 - post a message to reach out for what you are looking for
 
+Some points of etiquette to consider when posting to either the Slack channel or mailing list:
+
+- please be considerate towards other members and remember the [Gopher Values](https://golang.org/conduct)
+- please do not pin posts in the Slack channel; the best way to indicate a position is no longer
+available or post is no longer valid is to edit the original message and ~strikethrough~ the text.
+
+Any suggestions/questions/concerns with any of the above, please [email the organisers](mailto:glug-organisers@googlegroups.com).
+
 ## FAQ
 #### But we used to announce at events...
 Based on feedback from both people hiring and looking for jobs the short 30-second presentation on the evening worked great when we were a smaller meetup, but as we grow it has become too drawn out and chaotic. This also resulted in people hearing about jobs but not knowing how or where to follow up on opportunities. Changing to a special interest group on Slack allows all London based community members interact and share jobs on a regular basis regardless of attendance to meetups.
