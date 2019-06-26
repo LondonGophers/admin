@@ -1,10 +1,24 @@
 ## Meet-ups
 
+### June 19 2019 - [Monzo](https://monzo.com)
+
+🎥 YouTube Playlist (to follow)
+
+📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vRRagNyZuiF7Jb4mV3rEis3Rbku2nJZzE_0uTyQpHcw12DJY9nPITmdB2YSMUZ1_IOMK9wfyRUdqKeX/pub)
+
+🗣 Roberto Clapis - Securing web apps with modern platform features (to follow)
+
+🗣 Gargi Sharma - Is random random enough? (to follow)
+
+🗣 [Duco van Amstel - Go Modules at scale - (attempted) migrations & lessons learned](https://docs.google.com/presentation/d/e/2PACX-1vQmXjacOE8u8wxYSS47-ifQG7Ej6_VI51DexEN_4ouvWtis6Y_dGiNaUltdJksTY5wm7Kf1e3AX0ofz/pub)
+
 ### May 15 2019 - [Cloudflare](https://www.cloudflare.com)
+
+🎥 [YouTube Playlist](https://www.youtube.com/playlist?list=PL8QGElREVyDDhAIdO6Dj2fH-l1R4bMqfY)
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vQZ5MDfptAI2U7VTDmqZEU7Qrkkpeu-DZh0h_oXXLo_1GV3dGLMMJUkq_N12PCeRUwvBKMCsq29iTA_/pub)
 
-   [Wayne Ashley Berry - Implementing image filters in Go](https://docs.google.com/presentation/d/e/2PACX-1vSOI-UerMVbBe73OtLLh7bJoE2xgRoG7hUluzZ12XN3A8XD70SqtPaQ5doO699QtdFn6DqZlPIdVczy/pub)
+🗣 [Wayne Ashley Berry - Implementing image filters in Go](https://docs.google.com/presentation/d/e/2PACX-1vSOI-UerMVbBe73OtLLh7bJoE2xgRoG7hUluzZ12XN3A8XD70SqtPaQ5doO699QtdFn6DqZlPIdVczy/pub)
 
 🗣 [Daniel Martí - Reimagining gofmt for Go 2.0](https://docs.google.com/presentation/d/e/2PACX-1vQwj8Zf9TEeqSazY0nSObZt6cNgukUdl15PameXJRhjkU1vtdGB4AApy2NChyMwdqMxkyMfmIyHHO0c/pub)
 
