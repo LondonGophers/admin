@@ -6,9 +6,9 @@
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vRRagNyZuiF7Jb4mV3rEis3Rbku2nJZzE_0uTyQpHcw12DJY9nPITmdB2YSMUZ1_IOMK9wfyRUdqKeX/pub)
 
-🗣 Roberto Clapis - Securing web apps with modern platform features (to follow)
+🗣 [Roberto Clapis - Securing web apps with modern platform features](https://docs.google.com/presentation/d/1E-PHo0lb76TnRZ26TX_OW9kGrUv9Epo2hWb1Qt7aW7Q/edit)
 
-🗣 Gargi Sharma - Is random random enough? (to follow)
+🗣 [Gargi Sharma - Is random random enough?](https://docs.google.com/presentation/d/e/2PACX-1vT1OXZaFk_1SHoBQkD_PUUa84GfOOw6hOzvZniuyEb3BwT-EfyzSjKUNaSTqWlU4VFxwHxzpf4f6LVl/pub)
 
 🗣 [Duco van Amstel - Go Modules at scale - (attempted) migrations & lessons learned](https://docs.google.com/presentation/d/e/2PACX-1vQmXjacOE8u8wxYSS47-ifQG7Ej6_VI51DexEN_4ouvWtis6Y_dGiNaUltdJksTY5wm7Kf1e3AX0ofz/pub)
 
