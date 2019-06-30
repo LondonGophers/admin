@@ -25,3 +25,7 @@
 ####  Stop the live streaming
 - [Venue]: Stop the live streaming
 - [GLUG]: Set the "privacy" to `Private` (will split later)
+
+### After the live stream:
+- [GLUG]: Regenerate the stream key, in order to avoid the venue to re-use the stream channel by mistake
+- [GLUG]: Cut the video into individual videos, one for each speaker, as illustrated here: https://drive.google.com/file/d/1l2kH5T_qnexPLgDmeGHJquZ026E_XDYb/view?usp=sharing
