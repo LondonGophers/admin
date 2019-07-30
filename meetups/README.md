@@ -1,8 +1,20 @@
 ## Meet-ups
 
+### July 17 2019 - [Sainsbury's](https://www.sainsburys.co.uk/)
+
+🎥 [YouTube Playlist](https://www.youtube.com/watch?v=OElOVVvPmLc&list=PL8QGElREVyDDD0ZMYGJoq3YnQeDzUzwtX)
+
+📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdVuiYmZcIAQDbV3Q-Kio3gR44VNT01xm9MvKnfGgC20mAUecwH2uNGVFN74_4kkUZzJgd35KHjDlg/pub)
+
+🗣 [Beth Anderson - Go: An Origin Story](https://docs.google.com/presentation/d/e/2PACX-1vT7mcAj97QKVuLIZpG4-n6P6ozEmuuF8CclGQvTyJrgYBGTR5BuRsjdLng66JjIpSvFxmvMlL3ayNiw/pub)
+
+🗣 [Nick Wells - Semantic versioning - what Go programmers need to know](https://talks.godoc.org/github.com/nickwells/presentations/semver.slide#1)
+
+🗣 [Daniela Petruzalek - Pacman from scratch (to follow)](https://docs.google.com/presentation/d/e/2PACX-1vSxfpqZerJXYoPwtArNsQziPxpgCq5SvdSNcG4Z3UlxOXDRNtMLergbUJRfSSrZawd--Wv5ZxgaAGhf/pub)
+
 ### June 19 2019 - [Monzo](https://monzo.com)
 
-🎥 YouTube Playlist (to follow)
+🎥 [YouTube Playlist](https://www.youtube.com/watch?v=wvdE0M8UEEQ&list=PL8QGElREVyDCmYhUr65OCtWQRdltb-Khs)
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vRRagNyZuiF7Jb4mV3rEis3Rbku2nJZzE_0uTyQpHcw12DJY9nPITmdB2YSMUZ1_IOMK9wfyRUdqKeX/pub)
 
