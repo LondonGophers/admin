@@ -1,5 +1,11 @@
 ## Meet-ups
 
+### August 21 2019 - [GopherConUK](https://www.gophercon.co.uk/) & [GoTimeFM](https://changelog.com/gotime)
+
+🎥 [YouTube Playlist](https://www.youtube.com/watch?v=g8BD-0rIRN4)
+
+📻 [Podcast](https://changelog.com/news/4rMQ/visit)
+
 ### July 17 2019 - [Sainsbury's](https://www.sainsburys.co.uk/)
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=OElOVVvPmLc&list=PL8QGElREVyDDD0ZMYGJoq3YnQeDzUzwtX)
