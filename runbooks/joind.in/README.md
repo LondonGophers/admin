@@ -1,7 +1,7 @@
 We use [joind.in](https://joind.in) to gather feedback about the talks and the event itself.
 
 ## Why?
-Receiving constructive feedback is incredibly helpful to speakers - new and experienced alike - as it helps them improve. 
+Receiving constructive feedback is incredibly helpful to speakers - new and experienced alike - as it helps them improve.
 It is also useful to the organisers.
 
 ## How to give good feedback?
@@ -38,9 +38,11 @@ You get the idea ;)
     * Tags: `go,golang,london`
     * fill in the Venue and Date & time info
     * Icon: upload the [GLUG logo](https://github.com/go-london-user-group/admin/blob/master/assets/GLUG-logo-joindin.png)
-    
-
 * hit Submit and wait for an email to arrive - **it usually takes a day to get the event approved**
 * once approved, head to the event's page on joind.in and click on "Add talk" (one of the buttons on the yellow menu stripe) to add each talk
 * add a link to the joind.in event to the meetup description on meetup.com and add to the slides
 * can also buffer a tweet for after the meetup
+* change the redirect from https://gophers.london/feedback by making a change to
+  https://github.com/LondonGophers/gophers.london/blob/master/content/feedback.md. Follow the instructions at
+https://github.com/LondonGophers/gophers.london/blob/master/README.md to test locally, then regenerate the site prior to
+creating a commit and PR.
