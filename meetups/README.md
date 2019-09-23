@@ -1,5 +1,17 @@
 ## Meet-ups
 
+### September 18 2019 - [Deliveroo](https://deliveroo.co.uk)
+
+📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdrDce5gyKwgVJldo1tkStTVFfoBEaHhg9Rs50iCSzBEFv95D8p1yjw1mjsv3FVvSHOzj9AbWmGADQ/pub)
+
+🗣 Eleni Fragkiadaki - Going from 0 to 1 in Parallel test execution in Go (to follow)
+
+🗣 [Michal Bock - Managing Groups of Goroutines](https://talks.godoc.org/github.com/SpeedyCoder/talks/gogroups/groups.slide#1)
+
+🗣 [Dave Cunningham - Experience porting Jsonnet from C++ to Go](https://docs.google.com/presentation/d/e/2PACX-1vT0Ro-kiJehXMWCPqGSNsxed4i3aCHybOiaSo7C2E-5XiuKAW5htR7-jtE-v3xuBOFot4gi9MnOlEib/pub)
+
+🎥 [YouTube Playlist](https://www.youtube.com/watch?v=5xxZqtJPQ_I&list=PL8QGElREVyDD4_3fci3u_QZ7TvsW6J1eF)
+
 ### August 21 2019 - [GopherConUK](https://www.gophercon.co.uk/) & [GoTimeFM](https://changelog.com/gotime)
 
 🎥 [YouTube Playlist](https://www.youtube.com/watch?v=g8BD-0rIRN4)
