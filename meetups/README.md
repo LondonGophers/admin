@@ -4,7 +4,7 @@
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdrDce5gyKwgVJldo1tkStTVFfoBEaHhg9Rs50iCSzBEFv95D8p1yjw1mjsv3FVvSHOzj9AbWmGADQ/pub)
 
-🗣 Eleni Fragkiadaki - Going from 0 to 1 in Parallel test execution in Go (to follow)
+🗣 [Eleni Fragkiadaki - Going from 0 to 1 in Parallel test execution in Go](https://docs.google.com/presentation/d/e/2PACX-1vQZd-XSsiSkMrx4U7nVJAjyGFI3RNR3s3PgK07-OfOfCkbRu_7bG_7rcJ9y5JkPwFL_s9CDP-2HBIzu/pub)
 
 🗣 [Michal Bock - Managing Groups of Goroutines](https://talks.godoc.org/github.com/SpeedyCoder/talks/gogroups/groups.slide#1)
 
