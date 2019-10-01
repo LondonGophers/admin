@@ -44,6 +44,18 @@ In addition, recurring sponsors will be listed prominently on our website.
 
 Because we are a non-profit organisation, we will typically put any surplus funds towards conference scholarship funds such as https://www.gophercon.co.uk/scholarships/.
 
+## 👨‍👩‍👦‍👦 Support us
+
+If your business is about products or services that could improve the overall meetup experience, and benefit our community, please consider supporting this group by providing us community licenses or access to free merchandise! Great examples of companies which have supported us this way are:
+
+* Jetbrains: three free licenses every month for our attendees to give away in a raffle
+* 1Password: a free community license for the organisers to be able to share passwords and sensitive data securely
+* Stickermule: stickers with the London Gophers logo to be distributed at our events
+
+We're incredibly grateful to everyone who would like to contribute, one way or another, and we'll make sure our friends will know about your kindness!
+
+---
+
 As mentioned above, the organising committee of London Gophers are volunteers. We are always on the lookout for people keen to join our team!
 
 ### Contact Us
