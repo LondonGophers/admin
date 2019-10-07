@@ -14,10 +14,8 @@
   - [Mirbox](https://www.amazon.co.uk/MiraBox-Capture-30FPS-1080P-Passthrough/dp/B07R5T29KN/ref=sr_1_1?keywords=Mirabox+USB-C+Capture+Card%2C+4K+30FPS%2CHD+1080P+60FPS%2CHDMI+Game+Video+Capture+Card+with+Mic+Input+and+HDMI+Passthrough+-+Compatible+with+Windows%2C+Linux%2C+macOS%2C+OBS+Streaming+for+PS3+PS4+Xbox+Wii+U&linkCode=g13&qid=1566382602&s=computers&sr=1-1)
   - [Cam Link](https://www.amazon.co.uk/Elgato-Cam-Link-Broadcast-AmazonBasics/dp/B07V6LNJWQ/ref=sr_1_3?keywords=elgato+camlink+4k&qid=1568149490&s=computers&sr=1-3)
   - [HDMI to USB3.0 Video Capture Dongle](https://www.dx.com/p/hdmi-to-usb3-0-video-capture-dongle-1080p-60-hz-audio-video-hd-capture-adapter-2023773)
-- Wireless Mic
-  - [link]() //TODO(thoeni)
-- Wireless Mic Receiver
-  - [link]() //TODO(thoeni)
+- Wireless Mic + Receiver
+  - [Fifine UHF Wireless Lavalier Microphone System with Bodypack Transmitter](https://www.amazon.co.uk/dp/B076X2P99W/ref=pe_1909131_77697001_tnp_email_TE_AMZLdp_1): this setup requires for the venue to still make their own mics available as after we tested the mic output for the room we realised the quality was quite bad. We might want to invest on a professional wireless mic and buy instead a USB sound-card to connect the analogue mic to, and use it for both the room and the live stream.
 
 ## Software
 - [OBS Studio](https://obsproject.com/)
