@@ -1,5 +1,17 @@
 ## Meet-ups
 
+### October 16 2019 - [Monzo](https://monzo.com/)
+
+📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vTm_ncuKO_qxUVOHMQPRiscLR7BpYaDp0Tn4b0j7eB7CnIVSl830VcAvWkXqHfaptFEcqE33G2_JNNf/pub)
+
+🗣 [Suhail Patel - Learning to Reflect](https://github.com/suhailpatel/talks/blob/master/london-gophers-2019/Learning%20to%20Reflect%20(London%20Gophers%20Oct%202019).pdf)
+
+🗣 [amnon](https://www.youtube.com/watch?v=CEmlVSenfiQ) (no slides)
+
+🗣 [Ian Cottrell, Daniel Martí & Paul Jolly - A fireside chat on Go tooling and modules](https://docs.google.com/presentation/d/e/2PACX-1vTm_ncuKO_qxUVOHMQPRiscLR7BpYaDp0Tn4b0j7eB7CnIVSl830VcAvWkXqHfaptFEcqE33G2_JNNf/pub?slide=id.g6239d0d63c_10_0)
+
+🎥 [YouTube Playlist](https://www.youtube.com/watch?v=SK8r6Hx1KOM&list=PL8QGElREVyDDz1F6CPa3n_vhMfhcaAm_9)
+
 ### September 18 2019 - [Deliveroo](https://deliveroo.co.uk)
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdrDce5gyKwgVJldo1tkStTVFfoBEaHhg9Rs50iCSzBEFv95D8p1yjw1mjsv3FVvSHOzj9AbWmGADQ/pub)
