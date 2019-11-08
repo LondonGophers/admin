@@ -26,7 +26,7 @@ _🔴 - urgent_
 * [ ] Share link to good examples of feedback from PHPSW's joind.in.
 
 ### Paul
-* [ ] 🔴 Order food for November (40% meat, 40% veggie, 20% vegan or something like that)
+* [ ] 🔴 Order food for November (40% meat, 40% veggie, 20% vegan or 20% meat, 40% veggie, 40% vegan)
 * [ ] HSBC account - add Antonio and Beth.
 * [ ] Add Ben and Beth to all bits and pieces (incl. github).
 
@@ -38,7 +38,7 @@ _🔴 - urgent_
 * [ ] See if we can do BBC.
 
 ### Dom + Ben
-* [ ] Once we have dates and venues confirmed, put up meetup event placeholders for the next 3 months. Set max attendees at 130% of venue capacity.
+* [ ] Once we have dates and venues confirmed, put up meetup event placeholders for the next 3 months. Set max attendees at 142% (1 / (1 - 30%)) of venue capacity (assuming 30% dropout).
 
 ## Notes
 - Sponsors
@@ -49,7 +49,7 @@ _🔴 - urgent_
 
 - Venues
   - keep Monzo, Deliveroo and Cloudflare on rotation, plus Sainsbury's or any new venues (4 month cycle)
-  - set max number of attendees at 130% of official venue capacity to account for dropouts
+  - set max number of attendees at 142% of official venue capacity to account for 30% dropout rate
 
 - Shopping list
   - tripod
@@ -59,7 +59,7 @@ _🔴 - urgent_
   - mics
 
 - Food
-  - Order moree vegan and veggie things - aim for 40% meat, 40% veggie, 20% vegan or something like that.
+  - Order moree vegan and veggie things - aim for 40% meat, 40% veggie, 20% vegan at least, if not 20% meat, 40% veggie, 40% vegan
 
 - Other
   - Nominate one lead person for each month who will coordinate (separate from MC). Add to Meetups spreadsheet.
