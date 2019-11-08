@@ -1,9 +1,9 @@
 # 2019-09-11 Organiser Meetup Notes
 
-Attendees (update before commit)
+Attendees
 - domgreen
 - myitcv
-- theoni
+- thoeni
 
 ## Actions
 - share dates of meetups earlier via meetup calendar
