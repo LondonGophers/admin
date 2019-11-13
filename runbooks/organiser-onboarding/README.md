@@ -26,5 +26,5 @@ does give a good overview of the tools we use to keep on top of things as organi
 * Add to 1Password team for shared credentials
   * https://golondonusergroup.1password.com/people
 * Grant permissions for YouTube channel
-  * TBC
+  * Switch account to LondonGophers, "Settings -> Add or remove managers -> Manage permissions -> Invite new users"
 
