@@ -11,4 +11,3 @@
 - Will you need a hands-free mic, e.g. for live coding?
 - Any specific requirements, e.g. access, food, drink, etc?
 - Are you ok with us live streaming your talk?
-
