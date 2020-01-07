@@ -1,5 +1,13 @@
 ## Meet-ups
 
+### December 11 2019 - [Lush](https://uk.lush.com/)
+
+🗣 [Zach Jones - A Leisurely Stroll Through the Go Compiler (with a guide who is as lost as you are)](https://docs.google.com/presentation/d/15uV1LnUMOBuL9i0fdzDtL6TqI4-jyB6fc1Tz0Qj-Knk/edit#slide=id.p)
+
+🗣 [Alexander Petrov - Approximate string search in a dictionary](https://docs.google.com/presentation/d/1Jx4cwg9-3fEKAxiT_nu6FHsFX35rqvdYF9VoxmyM25k/edit#slide=id.p)
+
+🗣 [Roberto Clapis - Practical fuzzing with Go](https://docs.google.com/presentation/d/1KkLrzc8O-dkBQ0itVWcqp3gZbtf_IM6MVfy84FndVlM/edit#slide=id.p)
+
 ### October 16 2019 - [Monzo](https://monzo.com/)
 
 📔 [London Gophers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vTm_ncuKO_qxUVOHMQPRiscLR7BpYaDp0Tn4b0j7eB7CnIVSl830VcAvWkXqHfaptFEcqE33G2_JNNf/pub)
